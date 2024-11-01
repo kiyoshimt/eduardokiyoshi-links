@@ -39,3 +39,4 @@ Abra o arquivo index.html no navegador, e pronto! Você verá a página com os b
 📄 Licença
 Esse projeto está liberado sob a licença MIT, então fique à vontade para usar e modificar.
 
+![image](https://github.com/user-attachments/assets/e4e111ae-e34a-4a06-802d-3fc9f0d5accc)
